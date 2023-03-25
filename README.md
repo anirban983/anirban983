@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Introduction](/images/intro.svg)
 <!--
 **anirban983/anirban983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
