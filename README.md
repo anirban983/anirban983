@@ -2,8 +2,7 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Anirban+Kar.;I'm+a+full-stack+developer." alt="typing intro">
-
-Here are some ideas to get you started:
+ </p>
 
 - 🔭 I’m currently working as a <b> Senior Software Engineer at Verto - a Fintech Startup based in London, UK. </b> 
 - 🌱 I’m currently learning <b> Frontend Development and DevOps. </b>
