@@ -1,9 +1,6 @@
-<p align="left">
- <img src="https://readme-typing-svg.herokuapp.com?color=08CE90&lines=Hello+everyone!!!;My+name's+Anirban+Kar.;I'm+a+full-stack+developer." alt="typing intro">
-</p>
+### Hi there!!! My name's Anirban Kar
 
-- 🔭 I’m currently working as a <b> Senior Software Engineer at Verto - a Fintech Startup based in London, UK. </b> 
-- 🌱 I’m currently learning <b> Frontend Development and DevOps. </b>
+- 🔭 I’m currently working as a <b> full stack developer at Verto - a Fintech Startup based in London, UK. </b> 
 - 💬 Ask me about <b> Node.js, Python, Angular, Typescript, Sequelize, Mongoose, MySQL, MongoDB, Express, AWS </b>
 - 📫 How to reach me: <a href="mailto:anirbankar983@gmail.com" target="blank">anirbankar983@gmail.com</a>
 - 🚀 My portfolio website 👉🏻 <a href="https://anirban983.github.io/terminal-portfolio" target="blank">https://anirban983.github.io/terminal-portfolio</a> 
