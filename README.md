@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working as a <b> full stack developer at Verto - a Fintech Startup based in London, UK. </b> 
 - 💬 Ask me about <b> Node.js, Python, Angular, Typescript, Sequelize, Mongoose, MySQL, MongoDB, Express, AWS </b>
-- 📫 How to reach me: <a href="mailto:anirbankar983@gmail.com" target="blank">anirbankar983@gmail.com</a>
-- 🚀 My portfolio website 👉🏻 <a href="https://anirban983.github.io/terminal-portfolio" target="blank">https://anirban983.github.io/terminal-portfolio</a> 
+- 📫 How to reach me: <a href="mailto:anirbankar983@gmail.com" target="_blank">anirbankar983@gmail.com</a>
+- 🚀 My portfolio website 👉🏻 <a href="https://anirban983.github.io/terminal-portfolio" target="_blank">https://anirban983.github.io/terminal-portfolio</a> 
 - 😄 Pronouns: He/him
  
 <h3 align="left">Connect with me:</h3>
